@@ -18,5 +18,6 @@ Créer un site avec HTML, CSS et Bootstrap
 4. Création index.html avec test fonctionnalité Bootstrap
 
 ## Liens utiles
-[Petit guide des commandes en mark-down](https://support.zendesk.com/hc/fr/articles/203691016-Formatage-de-texte-avec-Markdown#topic_xqx_mvc_43__row_tf4_bmn_1n)
+[Petit guide des commandes en mark-down](https://support.zendesk.com/hc/fr/articles/203691016-Formatage-de-texte-avec-Markdown)
+[Pro Git en français consultable en ligne](https://git-scm.com/book/fr/v2)
 
