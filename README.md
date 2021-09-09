@@ -13,7 +13,9 @@ Créer un site avec HTML, CSS et Bootstrap
 
 ## Méthode adoptée
 1. Initialisation dépôt sur GitHub
-2. clone dépôt en local pour le développement
+2. Clone dépôt en local pour le développement
+3. Choix CDN pour importation Bootstrap(utilisation de fonctionnalités simples)
+4. Création index.html avec test fonctionnalité Bootstrap
 
 ## Liens utiles
 [Petit guide des commandes en mark-down](https://support.zendesk.com/hc/fr/articles/203691016-Formatage-de-texte-avec-Markdown#topic_xqx_mvc_43__row_tf4_bmn_1n)
