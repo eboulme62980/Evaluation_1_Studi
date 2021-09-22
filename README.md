@@ -18,6 +18,8 @@ Créer un site avec HTML, CSS et Bootstrap
 4. Création index.html avec test fonctionnalité Bootstrap
 5. Mise en place structure globale index.html
 6. Mise ne place du responsive
+7. Création page nextEvent.html
+8. Mise en place des liens de navigation
 
 ## Liens utiles
 [Petit guide des commandes en mark-down](https://support.zendesk.com/hc/fr/articles/203691016-Formatage-de-texte-avec-Markdown)
