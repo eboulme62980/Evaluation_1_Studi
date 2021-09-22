@@ -20,6 +20,7 @@ Créer un site avec HTML, CSS et Bootstrap
 6. Mise ne place du responsive
 7. Création page nextEvent.html
 8. Mise en place des liens de navigation
+9. Suppression branche nextEvent après merge sur main
 
 ## Liens utiles
 [Petit guide des commandes en mark-down](https://support.zendesk.com/hc/fr/articles/203691016-Formatage-de-texte-avec-Markdown)
